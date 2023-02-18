@@ -1,16 +1,16 @@
 #include <linux/module.h>
 #include <linux/kernel.h>
 
-int init_module (void) {
-	printk(KERN_INFO "Hello world! \n");
+int init_module_msg (void) {
+	printk(KERN_ALERT "Hello world! \n");
 	return 0;
 }
 
-void cleanup_module (void) {
-	printk(KERN_INFO "Goodbye world! \n");
+void cleanup_module_msg (void) {
+	printk(KERN_ALERT "Goodbye world! \n");
 }
 
-module_init(init_module);
-module_exit(cleanup_module);
+module_init(init_module_msg);
+module_exit(cleanup_module_msg);
 
 MODULE_LICENSE("GPL");
