@@ -31,10 +31,6 @@ static const char *state_to_string(long state)
             return "TASK_WAKING";
         case TASK_PARKED:
             return "TASK_PARKED";
-        case TASK_NOLOAD:
-            return "TASK_NOLOAD";
-        case TASK_NEW:
-            return "TASK_NEW";
         default:
             return "Unknown";
     }
