@@ -1,6 +1,6 @@
 //Report for Part 2 of Project 2
 
-1) Very similar to part 1, to load the module, run "make all", and then run "insmod print_self.ko" to load the module. The command dmesg will show it displaying the process names, PID's, and state up to init. After running, "rmmod print_self" will unload the module. A dmesg command should show a message confirming unloading.
+1) Very similar to part 1, to load the module, run "make all". From there you need to run "su" and enter the password to enter root mode and then run "insmod print_self.ko" to load the module. The command dmesg will show it displaying the process names, PID's, and state up to init. After running, "rmmod print_self" will unload the module. A dmesg command should show a message confirming unloading.
 
 2)
 	1)The current pointed to the Insmod process.
