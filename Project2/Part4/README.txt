@@ -6,4 +6,4 @@
   updating the kernel without having to rebuild the entire kernel with a new piece, rather just attaching the module onto 
   the kernel.
 
-2) 
+2) While the basic approach shown in the code is technically still valid, it will not work as-is on a modern Red Hat Linux system. For one, the sys_call_table array is no longer exported in newer versions of the Linux kernel, which means that this code will not compile as-is. To access the system call table, you would need to use other mechanisms such as kernel symbol lookups. Also, some of the function signatures and data structures used in this code are no longer be valid. This could result in compilation errors or even kernel panics if the code is loaded as a kernel module. And no, it failed to compile properly on my VM.
