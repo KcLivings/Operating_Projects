@@ -1,42 +1,48 @@
-**Name of Project** /n
+**Name of Project** 
+----------------------
 Instructions for the template 1. Do not delete any of the words highlighted in yellow.
 Simply clear the highlighting formatting. 2. Delete all the instructions and tips – basically
 everything in this document will be erased or replaced by your own words unless it is
 highlighted in yellow.
-**Team name:** Feel free to be creative
-**Name of the VM:**  do not delete the text before this arrow
+
+**Team name:** Operating Systems Project Management and Completion <br />
+**Name of the VM:**  do not delete the text before this arrow <br />
 **Password:**  do not delete the text before this arrow
-**Team members names:**
-Name one | Describe role in project results
-Name two | Describe role in project results
-Name three (if needed) | Describe role in project results
-**Description of Project:** 
+
+**Team members names:** <br />
+Name one | Describe role in project results <br />
+Name two | Describe role in project results <br />
+
+**Description of Project:**  <br />
 2 – 3 Sentences
 Here write a few (2-3) sentences describing the purpose of the program. You may be
 more specific later in the pseudocode or conclusion section of this report. You should write in
-complete sentences to describe the purpose.
-**Pseudocode:** 
+complete sentences to describe the purpose. 
+
+**Pseudocode:**  <br />
 This can be a picture, drawing, sketch, or digitally produced. For example, if you
 hand-wrote it on a sheet of paper, convert it into and image and paste it here. If you typed it
-in notepad, copy and paste it here.
+in notepad, copy and paste it here. <br />
 A rough draft of how you plan to design your program should be included here. You can
 do this in pseudocode or flowchart format. The idea is to begin thinking about how you will
 formulate your program and how you will ensure you obtain the results the assignment is
 describing.
-**Conclusion:** 
+
+**Conclusion:**  <br />
 1-2 Paragraphs
 Did the program behave the way you originally intended on the first try? If not, please
 identify and describe any challenges encountered, if there were several challenges, select just
 the most challenging part of the project. Examples could include coding and logical errors,
 difficulties encountered while writing the report, communication between team members, or
-other potential problems you now know to avoid not described here.
+other potential problems you now know to avoid not described here. <br />
 Describe in which ways the project could have improved? Do you feel as though you
 put forth your best efforts? Did your team function well as a group? If not, please share in
 which ways with the instructor, not in the conclusion of this report. Students who do not
 participate in group projects may submit a single submission that they created by themselves –
 it cannot be the same submission the group you are assigned to submitted if you did not
 participate in the group work.
-**Lessons Learned:**
+
+**Lessons Learned:** <br />
 You are not confined to the following prompts, they are examples of the types of
 questions you might ponder while determining what your lessons learned were. Each team
 member can submit a separate “Lessons Learned” section to the dropbox in Canvas, or each
