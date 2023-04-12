@@ -1,9 +1,5 @@
 **Name of Project** 
 ----------------------
-Instructions for the template 1. Do not delete any of the words highlighted in yellow.
-Simply clear the highlighting formatting. 2. Delete all the instructions and tips – basically
-everything in this document will be erased or replaced by your own words unless it is
-highlighted in yellow.
 
 **Team name:** Operating Systems Project Management and Completion <br />
 **Name of the VM:**  do not delete the text before this arrow <br />
@@ -14,12 +10,14 @@ Name one | Describe role in project results <br />
 Name two | Describe role in project results <br />
 
 **Description of Project:**  <br />
+------------------------
 2 – 3 Sentences
 Here write a few (2-3) sentences describing the purpose of the program. You may be
 more specific later in the pseudocode or conclusion section of this report. You should write in
 complete sentences to describe the purpose. 
 
 **Pseudocode:**  <br />
+----------------------
 This can be a picture, drawing, sketch, or digitally produced. For example, if you
 hand-wrote it on a sheet of paper, convert it into and image and paste it here. If you typed it
 in notepad, copy and paste it here. <br />
@@ -29,6 +27,7 @@ formulate your program and how you will ensure you obtain the results the assign
 describing.
 
 **Conclusion:**  <br />
+--------------------
 1-2 Paragraphs
 Did the program behave the way you originally intended on the first try? If not, please
 identify and describe any challenges encountered, if there were several challenges, select just
@@ -43,6 +42,7 @@ it cannot be the same submission the group you are assigned to submitted if you 
 participate in the group work.
 
 **Lessons Learned:** <br />
+----------------------
 You are not confined to the following prompts, they are examples of the types of
 questions you might ponder while determining what your lessons learned were. Each team
 member can submit a separate “Lessons Learned” section to the dropbox in Canvas, or each
