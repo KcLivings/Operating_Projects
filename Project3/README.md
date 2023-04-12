@@ -1,4 +1,4 @@
-**Name of Project**
+**Name of Project** /n
 Instructions for the template 1. Do not delete any of the words highlighted in yellow.
 Simply clear the highlighting formatting. 2. Delete all the instructions and tips – basically
 everything in this document will be erased or replaced by your own words unless it is
