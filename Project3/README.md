@@ -7,7 +7,8 @@
 
 **Team members names:** <br />
 KC Livingston |
-Michael Holubec | Tested coded for all three parts, created graphs representing part 3's data, worked on report. <br />
+ <br />
+ Michael Holubec | Tested coded for all three parts, created graphs representing part 3's data, worked on report.
 
 **Description of Project:**  <br />
 ------------------------
